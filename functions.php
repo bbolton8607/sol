@@ -40,9 +40,6 @@ add_action( 'after_setup_theme', 'register_customizer' );
    wp_enqueue_style( 'flexslider-css', get_template_directory_uri() . '/inc/flexslider/flexslider.css', array(), '', 'all' );
    wp_enqueue_script( 'flexslider-js', get_template_directory_uri() . '/inc/flexslider/flexslider.js', array( 'jquery' ), '', true );
 
-   // Parallax JS
-   wp_enqueue_script( 'parallax-js', get_template_directory_uri() . '/inc/parallax.js', array( 'jquery' ), null, true );
-
   }
  add_action( 'wp_enqueue_scripts', 'sol_scripts' );
 
