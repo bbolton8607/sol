@@ -2,4 +2,4 @@
  
  Wordpress WooCommerce Theme
  
- My 2nd WordPress Project & my first WooCommerce Project
+ This is my second WordPress website and my first WooCommerce website! In this project I used FontAwesome 4, Bootstrap 4, Navwalker, & Flexslider!
